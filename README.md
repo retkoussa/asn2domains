@@ -1,4 +1,4 @@
-# 🌐 asn2ip
+# 🌐 asn2domains
 
 Simple tool for resolving domain names from an ASN.
 
